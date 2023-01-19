@@ -1,7 +1,7 @@
 //import logo from './logo.svg';
 import './App.css';
 //import TaskForm from './components/Container/Form/TaskForm';
-import TaskListComponent from './components/Container/TaskList';
+import TaskListComponent from './components/TaskList';
 
 function App() {
   return (
